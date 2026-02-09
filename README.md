@@ -46,14 +46,17 @@ Este proyecto analiza el impacto de la adicción a las redes sociales en el bien
 
 #### 🧠 Reducción de Dimensionalidad e Insights
 ![PCA](img/PCA.png)
+
 *Aplicación de PCA para identificar los componentes principales que explican la varianza en la adicción de los estudiantes.*
 
 #### 🤖 Modelado Predictivo
 ![Matriz de Confusión](img/Regresion%20logistica.png)
+
 *Resultados del modelo de Regresión Logística mostrando la precisión en la predicción del impacto académico.*
 
 #### 📌 Agrupamiento (Clustering)
 ![K-Means](img/K-Means%20Clustering.png)
+
 *Segmentación de estudiantes mediante K-Means para identificar patrones y grupos de riesgo.*
 
 
