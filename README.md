@@ -59,6 +59,20 @@ Este proyecto analiza el impacto de la adicción a las redes sociales en el bien
 
 *Segmentación de estudiantes mediante K-Means para identificar patrones y grupos de riesgo.*
 
+### 1. Relación Adicción vs Salud Mental
+![Scatter Plot](img/Scatter_Plotly.png)
+
+### 2. Distribución de Redes Sociales
+![Pie Chart](img/Pie_Plotly.png)
+
+### 3. Frecuencia de Relaciones Sentimentales
+![Bar Chart](img/Bar_Plotly.png)
+
+### 4. Análisis de Horas de Uso (Box Plot)
+![Box Plot](img/Box_Plotly.png)
+
+### 5. Mapa Global de Uso (Animado por Edad)
+![Choropleth Map](img/Choropleth_Plotly.png)
 
 ## Lessons Learned
 
